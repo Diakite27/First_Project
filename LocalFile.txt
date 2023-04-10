@@ -1,0 +1,6 @@
+Le répertoire ".gitignore" est utilisé par Git pour spécifier des fichiers ou des dossiers qui
+doivent être ignorés lors de l'ajout et de la gestion des fichiers dans le dépôt Git. Cela 
+permet d'éviter que des fichiers temporaires, des fichiers de configuration ou d'autres
+fichiers générés automatiquement soient ajoutés accidentellement au dépôt et, par 
+conséquent, que ces fichiers ne soient pas suivis par Git
+Diakite
